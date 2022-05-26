@@ -6,7 +6,7 @@
 The purpose of this project was to create a text editor that runs in the browser. Users may also choose to install the application so that it may function offline.
 
 ## **Deployed Link**
-Click on the following link to be navigated to the application: 
+Click on the following link to be navigated to the application: https://floating-tundra-37036.herokuapp.com/
 
 ## **Technologies**
 
